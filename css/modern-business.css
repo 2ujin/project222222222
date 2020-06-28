@@ -34,3 +34,20 @@ body {
     padding: 10%;
     font-family: 'Nanum Myeongjo', serif;
 }
+
+.nav-link{
+  color: black;
+  font-family: 'NanumBarunGothic', sans-serif;
+}
+
+.active{
+  color: #06488f;
+}
+
+.font{
+  font-family: 'NanumBarunGothic', sans-serif;
+}
+
+.custom-toggler.navbar-toggler {
+  border-color: rgb(255,102,203);
+} 
