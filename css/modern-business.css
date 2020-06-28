@@ -1,0 +1,36 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/templates/modern-business)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+
+ @import url(//fonts.googleapis.com/earlyaccess/nanummyeongjo.css); .nanummyeongjo 
+ 
+ * { font-family: 'Nanum Myeongjo', serif; }
+
+body {
+  padding-top: 56px;
+  /* height: 100vh; */
+  background-image: url('https://user-images.githubusercontent.com/42020919/85221833-168cb880-b3f2-11ea-9b3a-be421eb3e227.png');
+  background-size: cover;
+  /* background-position: initial; */
+  background-position: center;
+}
+
+.height{
+    height: 100vh;
+    /* margin-top: 50vh; */
+    text-align: center;
+}
+
+.dd{
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+    padding: 10%;
+    font-family: 'Nanum Myeongjo', serif;
+}
