@@ -10,7 +10,7 @@
 
 body {
   padding-top: 56px;
-  /* height: 100vh; */
+  height: 60vh;
   background-image: url('https://user-images.githubusercontent.com/42020919/85221833-168cb880-b3f2-11ea-9b3a-be421eb3e227.png');
   background-size: cover;
   /* background-position: initial; */
@@ -18,8 +18,7 @@ body {
 }
 
 .height{
-    height: 100vh;
-    /* margin-top: 50vh; */
+    height: 65vh;
     text-align: center;
 }
 
