@@ -50,3 +50,17 @@ body {
 .custom-toggler.navbar-toggler {
   border-color: rgb(255,102,203);
 } 
+
+.ml-auto,
+.mx-auto {
+  margin: auto !important;
+}
+
+.nav-item{
+  /* background-image:url('https://user-images.githubusercontent.com/42020919/86148386-81966780-bb35-11ea-92b8-5153a2b2d305.png'); 		 */
+  background-repeat : no-repeat;
+  background-size: 100% 70%;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
