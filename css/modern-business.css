@@ -40,7 +40,8 @@ body {
 }
 
 .active{
-  color: #06488f;
+  color: white;
+  font-family: 'NanumBarunGothic', sans-serif;
 }
 
 .font{
@@ -56,7 +57,7 @@ body {
   margin: auto !important;
 }
 
-.nav-item{
+.nav-item-1{
   background-image:url('https://user-images.githubusercontent.com/42020919/86148386-81966780-bb35-11ea-92b8-5153a2b2d305.png'); 		
   background-repeat : no-repeat;
   background-size: 100% 100%;
@@ -64,7 +65,24 @@ body {
   margin-right: 20px;
   zoom: 0.8;
   width: 130px;
+  height: 20%;
   text-align: center;
   padding: -20px;
+  font-size: 17px;
+  font-family: 'NanumBarunGothic', sans-serif;
 }
 
+.nav-item{
+  background-image:url('https://user-images.githubusercontent.com/42020919/86255792-84a35d80-bbf2-11ea-8454-16b33cf10478.png'); 		
+  background-repeat : no-repeat;
+  background-size: 100% 100%;
+  margin-left: 20px;
+  margin-right: 20px;
+  zoom: 0.8;
+  width: 130px;
+  height: 20%;
+  text-align: center;
+  padding: -20px;
+  font-size: 17px;
+  font-family: 'NanumBarunGothic', sans-serif;
+}
