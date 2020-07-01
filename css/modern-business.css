@@ -57,10 +57,14 @@ body {
 }
 
 .nav-item{
-  /* background-image:url('https://user-images.githubusercontent.com/42020919/86148386-81966780-bb35-11ea-92b8-5153a2b2d305.png'); 		 */
+  background-image:url('https://user-images.githubusercontent.com/42020919/86148386-81966780-bb35-11ea-92b8-5153a2b2d305.png'); 		
   background-repeat : no-repeat;
-  background-size: 100% 70%;
+  background-size: 100% 100%;
   margin-left: 20px;
   margin-right: 20px;
+  zoom: 0.8;
+  width: 130px;
+  text-align: center;
+  padding: -20px;
 }
 
