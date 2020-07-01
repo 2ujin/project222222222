@@ -10,10 +10,10 @@
 
 body {
   padding-top: 56px;
-  height: 60vh;
+  height: 100vh;
   background-image: url('https://user-images.githubusercontent.com/42020919/85221833-168cb880-b3f2-11ea-9b3a-be421eb3e227.png');
   background-size: cover;
-  /* background-position: initial; */
+  background-position: initial;
   background-position: center;
 }
 
