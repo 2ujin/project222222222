@@ -35,6 +35,10 @@ body {
     font-family: 'Nanum Myeongjo', serif;
 }
 
+.font-2{
+  font-family: 'NanumBarunGothic', sans-serif;
+}
+
 .nav-link{
   color: black;
   font-family: 'NanumBarunGothic', sans-serif;
