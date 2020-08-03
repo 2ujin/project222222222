@@ -95,3 +95,4 @@ body {
 p{
   font-family: 'NanumBarunGothic', sans-serif;
 }
+@media screen and (max-width: 768px) { body { background-color: lightgreen; } }
